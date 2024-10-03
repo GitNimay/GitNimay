@@ -1,6 +1,10 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>Cybersecurity, cloud, Docker<br><br>👯 I’m looking to collaborate on:<br>Cybersecurity, DevOps, open-source<br><br>🤝 I’m looking for help with:<br>DevOps, Kubernetes, CI/CD<br><br>🌱 I’m currently learning:<br>Penetration testing, RHCSA, DevOps<br><br>💬 Ask me about:<br>Certifications, hacking, public speaking<br><br>⚡ Fun fact:<br>Love simplifying tech!
-
+<h1><strong>💫 About Me:</strong></h1>
+<p><strong>🔭 I’m currently working on:</strong> Cybersecurity, cloud, Docker</p>
+<p><strong>👯 I’m looking to collaborate on:</strong> Cybersecurity, DevOps, open-source</p>
+<p><strong>🤝 I’m looking for help with:</strong> DevOps, Kubernetes, CI/CD</p>
+<p><strong>🌱 I’m currently learning:</strong> Penetration testing, RHCSA, DevOps</p>
+<p><strong>💬 Ask me about:</strong> Certifications, hacking, public speaking</p>
+<p><strong>⚡ Fun fact:</strong> I debug my life like I debug code—one bug at a time!</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_nimay_08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nimesh-kulkarni-526401266) 
