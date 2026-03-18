@@ -21,7 +21,7 @@ DevOps Engineer from India focused on building reliable, scalable, and automated
 <br><br>
 
 <b>What I Do:</b><br>
-• Automate what shouldn’t be repeated<br>
+• Automate what shouldn't be repeated<br>
 • Build CI/CD pipelines<br>
 • Work with Docker and AWS<br>
 • Explore Kubernetes and DevSecOps
@@ -55,8 +55,8 @@ Reach out on: <a href="https://www.linkedin.com/in/nimesh-kulkarni">LinkedIn</a>
 <!--
 **yourusername/yourusername** is a special repository because its README.md appears on your GitHub profile.
 
-- I’m currently working on DevOps projects and automation
-- I’m currently learning Kubernetes and DevSecOps
-- I’m looking to collaborate on cloud and DevOps projects
+- I'm currently working on DevOps projects and automation
+- I'm currently learning Kubernetes and DevSecOps
+- I'm looking to collaborate on cloud and DevOps projects
 - Ask me about DevOps, CI/CD, Docker, AWS
 -->
