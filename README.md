@@ -16,36 +16,36 @@
   <br><br>
   <samp>
 
-I'm <b>Nimesh Kulkarni</b><br>
+I'm <b>Nimesh Kulkarni,</b><br>
 DevOps Engineer from India focused on building reliable, scalable, and automated systems.
 <br><br>
 
-<b>What I Do</b><br>
+<b>What I Do:</b><br>
 • Automate what shouldn’t be repeated<br>
 • Build CI/CD pipelines<br>
 • Work with Docker and AWS<br>
 • Explore Kubernetes and DevSecOps
 <br><br>
 
-<b>Current Focus</b><br>
+<b>Current Focus:</b><br>
 • Simplifying deployments<br>
 • Improving system reliability<br>
 • Building secure and efficient systems
 <br><br>
 
-<b>Background</b><br>
+<b>Background:</b><br>
 • Hands-on with real-world projects, not just theory<br>
 • Strong foundation in Cloud, DevOps, and Security
 <br><br>
 
-<b>Skills & Stack</b><br>
+<b>Skills & Stack:</b><br>
 • CI/CD: Jenkins, GitHub Actions<br>
 • Containers: Docker<br>
 • Cloud: AWS<br>
 • Learning: Kubernetes, DevSecOps
 <br><br>
 
-Reach out on <a href="https://www.linkedin.com/in/nimesh-kulkarni">LinkedIn</a>, or <a href="mailto:nimesh.kulkarni2004@gmail.com">Send an Email</a>
+Reach out on: <a href="https://www.linkedin.com/in/nimesh-kulkarni">LinkedIn</a>, or <a href="mailto:nimesh.kulkarni2004@gmail.com">Send an Email</a>
 
   </samp>
 </p>
