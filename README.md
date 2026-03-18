@@ -44,7 +44,7 @@
 • 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐: 𝙺𝚞𝚋𝚎𝚛𝚗𝚎𝚝𝚎𝚜, 𝙳𝚎𝚟𝚂𝚎𝚌𝙾𝚙𝚜
 <br><br>
 
-Reach out on: <a href="https://www.linkedin.com/in/nimesh-kulkarni">LinkedIn</a>, or <a href="mailto:nimesh.kulkarni2004@gmail.com">Send an Email</a>
+Reach out on: <a href="https://www.linkedin.com/in/nimesh-kulkarni-526401266?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a>, or <a href="mailto:nimesh.kulkarni2004@gmail.com">Send an Email</a>
 
 </p>
 
