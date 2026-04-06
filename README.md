@@ -41,7 +41,7 @@ Reach out on: <a href="https://www.linkedin.com/in/nimesh-kulkarni-526401266?utm
 <br><br>
 
 𝗧𝗵𝗲 𝘃𝗶𝗯𝗲<br>
-relax, write some code, be a tea drinking canadian nerd, and enjoy life 🍵
+relax, write some code, be a tea drinking Indian nerd, and enjoy life 🍵
 
 </p>
 
