@@ -45,13 +45,3 @@ relax, write some code, be a tea drinking Indian nerd, and enjoy life 🍵
 
 </p>
 
----
-
-<!--
-**yourusername/yourusername** is a special repository because its README.md appears on your GitHub profile.
-
-- I'm currently working on DevOps projects and automation
-- I'm currently learning Kubernetes and DevSecOps
-- I'm looking to collaborate on cloud and DevOps projects
-- Ask me about DevOps, CI/CD, Docker, AWS
--->
