@@ -4,7 +4,7 @@
   <img src="https://github.com/bashbunni/bashbunni/blob/main/dancing-gopher.gif" width="55px">
   <br><br>
 𝙸'𝚖 𝗡𝗶𝗺𝗲𝘀𝗵 𝗞𝘂𝗹𝗸𝗮𝗿𝗻𝗶,<br>
-**𝙳𝚎𝚟𝙾𝚙𝚜** 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚏𝚛𝚘𝚖 𝙸𝚗𝚍𝚒𝚊 𝚏𝚘𝚌𝚞𝚜𝚎𝚍 𝚘𝚗 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚛𝚎𝚕𝚒𝚊𝚋𝚕𝚎, 𝚜𝚌𝚊𝚕𝚊𝚋𝚕𝚎, 𝚊𝚗𝚍 𝚊𝚞𝚝𝚘𝚖𝚊𝚝𝚎𝚍 𝚜𝚢𝚜𝚝𝚎𝚖𝚜 𝚊𝚗𝚍 **Founder** 𝚘𝚏 <a href="https://interviewxpert.in">𝙸𝚗𝚝𝚎𝚛𝚟𝚒𝚎𝚠𝚇𝚙𝚎𝚛𝚝</a>.
+𝙳𝚎𝚟𝙾𝚙𝚜 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚏𝚛𝚘𝚖 𝙸𝚗𝚍𝚒𝚊 𝚏𝚘𝚌𝚞𝚜𝚎𝚍 𝚘𝚗 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚛𝚎𝚕𝚒𝚊𝚋𝚕𝚎, 𝚜𝚌𝚊𝚕𝚊𝚋𝚕𝚎, 𝚊𝚗𝚍 𝚊𝚞𝚝𝚘𝚖𝚊𝚝𝚎𝚍 𝚜𝚢𝚜𝚝𝚎𝚖𝚜 𝚊𝚗𝚍 Founder 𝚘𝚏 <a href="https://interviewxpert.in">𝙸𝚗𝚝𝚎𝚛𝚟𝚒𝚎𝚠𝚇𝚙𝚎𝚛𝚝</a>.
 <br><br>
 𝗪𝗵𝗮𝘁 𝗜 𝗗𝗼:<br>
 - 𝙰𝚞𝚝𝚘𝚖𝚊𝚝𝚎 𝚠𝚑𝚊𝚝 𝚜𝚑𝚘𝚞𝚕𝚍𝚗'𝚝 𝚋𝚎 𝚛𝚎𝚙𝚎𝚊𝚝𝚎𝚍<br>
