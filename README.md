@@ -32,10 +32,10 @@
 - <b>𝗜'𝗺 𝗮 𝗴𝗿𝗲𝗮𝘁 𝘃𝗶𝗯𝗲 𝗰𝗼𝗱𝗲𝗿 𝗮𝗻𝗱 𝗜 𝗰𝗮𝗻 𝗰𝗼𝗱𝗲 𝟭𝟬𝘅 𝗳𝗮𝘀𝘁𝗲𝗿</b>
 <br><br>
 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁𝘀:<br>
-- 🏆 𝚆𝚘𝚗 <a href="https://nimesh-kulkarni.vercel.app/blogs/yi-ids-6-win">𝚈𝙸 𝙸𝙳𝚂 𝟼.𝟶</a> 𝙷𝚊𝚌𝚔𝚊𝚝𝚑𝚘𝚗 𝚜𝚎𝚕𝚎𝚌𝚝𝚎𝚍 𝚒𝚗 𝚝𝚘𝚙 𝟽𝟶 𝚘𝚞𝚝 𝚘𝚏 𝟸𝟶𝟶+ 𝚝𝚎𝚊𝚖𝚜, 𝚝𝚑𝚎𝚗 𝚝𝚘𝚙 𝟷𝟶, 𝚊𝚗𝚍 𝚏𝚒𝚗𝚊𝚕𝚕𝚢 𝚠𝚘𝚗 𝟷𝚜𝚝 𝚙𝚕𝚊𝚌𝚎 🥇 𝚠𝚒𝚝𝚑 𝚊 ₹𝟷𝟶,𝟶𝟶𝟶 𝚌𝚊𝚜𝚑 𝚙𝚛𝚒𝚣𝚎<br><br>
+- 🏆 𝚆𝚘𝚗 𝚈𝙸 𝙸𝙳𝚂 𝟼.𝟶 𝙷𝚊𝚌𝚔𝚊𝚝𝚑𝚘𝚗 𝚜𝚎𝚕𝚎𝚌𝚝𝚎𝚍 𝚒𝚗 𝚝𝚘𝚙 𝟽𝟶 𝚘𝚞𝚝 𝚘𝚏 𝟸𝟶𝟶+ 𝚝𝚎𝚊𝚖𝚜, 𝚝𝚑𝚎𝚗 𝚝𝚘𝚙 𝟷𝟶, 𝚊𝚗𝚍 𝚏𝚒𝚗𝚊𝚕𝚕𝚢 𝚠𝚘𝚗 𝟷𝚜𝚝 𝚙𝚕𝚊𝚌𝚎 🥇 𝚠𝚒𝚝𝚑 𝚊 ₹𝟷𝟶,𝟶𝟶𝟶 𝚌𝚊𝚜𝚑 𝚙𝚛𝚒𝚣𝚎<br><br>
 - 🏆 𝚆𝚘𝚗 <a href="https://gitkiwi.vercel.app/">𝚅𝚒𝚋𝚎𝚝𝚑𝚘𝚗 𝟸.𝟶 𝟸𝟶𝟸𝟼</a> 𝚅𝚒𝚋𝚎𝚌𝚘𝚍𝚒𝚗𝚐 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚘𝚗 𝚋𝚞𝚒𝚕𝚝 𝙶𝚒𝚝𝙺𝚒𝚠𝚒, 𝚊 𝚁𝚎𝚊𝚕-𝚃𝚒𝚖𝚎 𝙶𝚒𝚝𝙷𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙳𝚊𝚜𝚑𝚋𝚘𝚊𝚛𝚍 𝚞𝚜𝚒𝚗𝚐 𝙲𝚘𝚍𝚎𝚡 🥇 𝚠𝚒𝚝𝚑 𝟽𝟶+ 𝚟𝚘𝚝𝚎𝚜 𝚊𝚗𝚍 $𝟻𝟶 𝚌𝚊𝚜𝚑 𝚙𝚛𝚒𝚣𝚎
 <br><br>
-Reach out on: <a href="https://www.linkedin.com/in/nimesh-kulkarni-526401266?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a>, <a href="https://nimesh-kulkarni.vercel.app/">Portfolio Website</a>, <a href="https://x.com/kulkarni_nimesh">X (Twitter)</a> or <a href="mailto:nimesh.kulkarni2004@gmail.com">Send an Email</a>
+Reach out on: <a href="https://www.linkedin.com/in/nimesh-kulkarni-526401266?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a>, <a href="https://www.n1m35h.in/">Portfolio Website</a>, <a href="https://x.com/kulkarni_nimesh">X (Twitter)</a> or <a href="mailto:nimesh.kulkarni2004@gmail.com">Send an Email</a>
 <br><br>
 𝗧𝗵𝗲 𝘃𝗶𝗯𝗲<br>
 relax, write some code, be a tea drinking Indian nerd, and enjoy life 🍵
