@@ -3,15 +3,20 @@
 <p>
   <img src="https://github.com/bashbunni/bashbunni/blob/main/dancing-gopher.gif" width="55px">
   <br><br>
+
 𝙸'𝚖 𝗡𝗶𝗺𝗲𝘀𝗵 𝗞𝘂𝗹𝗸𝗮𝗿𝗻𝗶,<br>
 𝙳𝚎𝚟𝙾𝚙𝚜 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚏𝚛𝚘𝚖 𝙸𝚗𝚍𝚒𝚊 𝚏𝚘𝚌𝚞𝚜𝚎𝚍 𝚘𝚗 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚛𝚎𝚕𝚒𝚊𝚋𝚕𝚎, 𝚜𝚌𝚊𝚕𝚊𝚋𝚕𝚎, 𝚊𝚗𝚍 𝚊𝚞𝚝𝚘𝚖𝚊𝚝𝚎𝚍 𝚜𝚢𝚜𝚝𝚎𝚖𝚜 𝚊𝚗𝚍 Founder & Technical Head 𝚘𝚏 <a href="https://interviewxpert.in">𝙸𝚗𝚝𝚎𝚛𝚟𝚒𝚎𝚠𝚇𝚙𝚎𝚛𝚝</a>.
+
 <br><br>
+
 𝗪𝗵𝗮𝘁 𝗜 𝗗𝗼:<br>
 - 𝙰𝚞𝚝𝚘𝚖𝚊𝚝𝚎 𝚠𝚑𝚊𝚝 𝚜𝚑𝚘𝚞𝚕𝚍𝚗'𝚝 𝚋𝚎 𝚛𝚎𝚙𝚎𝚊𝚝𝚎𝚍<br>
 - 𝙱𝚞𝚒𝚕𝚍 𝙲𝙸/𝙲𝙳 𝚙𝚒𝚙𝚎𝚕𝚒𝚗𝚎𝚜<br>
 - 𝚆𝚘𝚛𝚔 𝚠𝚒𝚝𝚑 𝙳𝚘𝚌𝚔𝚎𝚛 𝚊𝚗𝚍 𝙰𝚆𝚂<br>
 - 𝙴𝚡𝚙𝚕𝚘𝚛𝚎 𝙺𝚞𝚋𝚎𝚛𝚗𝚎𝚝𝚎𝚜 𝚊𝚗𝚍 𝙳𝚎𝚟𝚂𝚎𝚌𝙾𝚙𝚜
+
 <br><br>
+
 𝗦𝗸𝗶𝗹𝗹𝘀 & 𝗦𝘁𝗮𝗰𝗸:<br>
 - 𝙲𝙸/𝙲𝙳: 𝙹𝚎𝚗𝚔𝚒𝚗𝚜, 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚘𝚗𝚜<br>
 - 𝙲𝚘𝚗𝚝𝚊𝚒𝚗𝚎𝚛𝚜: 𝙳𝚘𝚌𝚔𝚎𝚛<br>
@@ -21,15 +26,27 @@
 - 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔: 𝙽𝚎𝚡𝚝.𝚓𝚜<br>
 - 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎: 𝚂𝚞𝚙𝚊𝚋𝚊𝚜𝚎, 𝙵𝚒𝚛𝚎𝚋𝚊𝚜𝚎, 𝙼𝚘𝚗𝚐𝚘𝙳𝙱, 𝚂𝚀𝙻, 𝙿𝚘𝚜𝚝𝚐𝚛𝚎𝚜𝚜𝚀𝙻<br>
 - <b>𝗜'𝗺 𝗮 𝗴𝗿𝗲𝗮𝘁 𝘃𝗶𝗯𝗲 𝗰𝗼𝗱𝗲𝗿 𝗮𝗻𝗱 𝗜 𝗰𝗮𝗻 𝗰𝗼𝗱𝗲 𝟭𝟬𝘅 𝗳𝗮𝘀𝘁𝗲𝗿</b>
+
 <br>
+
 View My Blogs <a href="https://www.n1m35h.in/blogs">here</a>
+
+<br><br>
+
+𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁𝘀:<br><br>
+- 🏆 𝚆𝚘𝚗 𝚈𝙸 𝙸𝙳𝚂 𝟼.𝟶 𝙷𝚊𝚌𝚔𝚊𝚝𝚑𝚘𝚗 𝚜𝚎𝚕𝚎𝚌𝚝𝚎𝚍 𝚒𝚗 𝚝𝚘𝚙 𝟽𝟶 𝚘𝚞𝚝 𝚘𝚏 𝟸𝟶𝟶+ 𝚝𝚎𝚊𝚖𝚜, 𝚝𝚑𝚎𝚗 𝚝𝚘𝚙 𝟷𝟶, 𝚊𝚗𝚍 𝚏𝚒𝚗𝚊𝚕𝚕𝚢 𝚠𝚘𝚗 𝟷𝚜𝚝 𝚙𝚕𝚊𝚌𝚎 🥇 𝚠𝚒𝚝𝚑 𝚊 ₹𝟷𝟶,𝟶𝟶𝟶 𝚌𝚊𝚜𝚑 𝚙𝚛𝚒𝚣𝚎
+
 <br>
-𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁𝘀:<br>
-- 🏆 𝚆𝚘𝚗 𝚈𝙸 𝙸𝙳𝚂 𝟼.𝟶 𝙷𝚊𝚌𝚔𝚊𝚝𝚑𝚘𝚗 𝚜𝚎𝚕𝚎𝚌𝚝𝚎𝚍 𝚒𝚗 𝚝𝚘𝚙 𝟽𝟶 𝚘𝚞𝚝 𝚘𝚏 𝟸𝟶𝟶+ 𝚝𝚎𝚊𝚖𝚜, 𝚝𝚑𝚎𝚗 𝚝𝚘𝚙 𝟷𝟶, 𝚊𝚗𝚍 𝚏𝚒𝚗𝚊𝚕𝚕𝚢 𝚠𝚘𝚗 𝟷𝚜𝚝 𝚙𝚕𝚊𝚌𝚎 🥇 𝚠𝚒𝚝𝚑 𝚊 ₹𝟷𝟶,𝟶𝟶𝟶 𝚌𝚊𝚜𝚑 𝚙𝚛𝚒𝚣𝚎<br><br>
+
 - 🏆 𝚆𝚘𝚗 <a href="https://gitkiwi.vercel.app/">𝚅𝚒𝚋𝚎𝚝𝚑𝚘𝚗 𝟸.𝟶 𝟸𝟶𝟸𝟼</a> 𝚅𝚒𝚋𝚎𝚌𝚘𝚍𝚒𝚗𝚐 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚘𝚗 𝚋𝚞𝚒𝚕𝚝 𝙶𝚒𝚝𝙺𝚒𝚠𝚒, 𝚊 𝚁𝚎𝚊𝚕-𝚃𝚒𝚖𝚎 𝙶𝚒𝚝𝙷𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙳𝚊𝚜𝚑𝚋𝚘𝚊𝚛𝚍 𝚞𝚜𝚒𝚗𝚐 𝙲𝚘𝚍𝚎𝚡 🥇 𝚠𝚒𝚝𝚑 𝟽𝟶+ 𝚟𝚘𝚝𝚎𝚜 𝚊𝚗𝚍 $𝟻𝟶 𝚌𝚊𝚜𝚑 𝚙𝚛𝚒𝚣𝚎
+
 <br><br>
+
 Reach out on: <a href="https://www.linkedin.com/in/nimesh-kulkarni-526401266?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a>, <a href="https://www.n1m35h.in/">Portfolio Website</a>, <a href="https://x.com/kulkarni_nimesh">X (Twitter)</a> or <a href="mailto:nimesh.kulkarni2004@gmail.com">Send an Email</a>
+
 <br><br>
+
 𝗧𝗵𝗲 𝘃𝗶𝗯𝗲<br>
 relax, write some code, be a tea drinking Indian nerd, and enjoy life 🍵
+
 </p>
