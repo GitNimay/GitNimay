@@ -57,10 +57,7 @@ def render_articles(articles: list[dict[str, Any]]) -> str:
             if cover
             else ""
         )
-        meta = []
-        if avatar:
-            meta.append(f'<img src="{avatar}" alt="{author}" width="18" height="18">')
-        meta.append(author)
+        meta = [author]
         if published:
             meta.append(published)
 
