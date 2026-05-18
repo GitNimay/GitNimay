@@ -42,10 +42,9 @@ def render_articles(articles: list[dict[str, Any]]) -> str:
             '<p><a href="https://dev.to/nimay_04">View my writing on DEV</a></p>'
         )
 
-    cells: list[str] = []
+    rows: list[str] = []
     for article in articles[:3]:
-        title = clean_text(article.get("title", "Untitled"), 72)
-        description = clean_text(article.get("description", ""), 140)
+        title = clean_text(article.get("title", "Untitled"), 90)
         url = article.get("url", PROFILE_URL)
         cover = article.get("cover_image") or article.get("social_image") or ""
         published = format_date(article.get("published_at", article.get("published_timestamp")))
@@ -53,23 +52,28 @@ def render_articles(articles: list[dict[str, Any]]) -> str:
         author = clean_text(user.get("name", "Nimesh Kulkarni"), 40)
         avatar = user.get("profile_image") or ""
 
-        parts = [f'<a href="{url}"><img src="{cover}" alt="{title}" width="100%"></a>' if cover else ""]
-        parts.append(f'<br><a href="{url}"><strong>{title}</strong></a>')
-        if description:
-            parts.append(f'<br><sub>{description}</sub>')
+        media = (
+            f'<a href="{url}"><img src="{cover}" alt="{title}" width="160"></a>'
+            if cover
+            else ""
+        )
         meta = []
         if avatar:
             meta.append(f'<img src="{avatar}" alt="{author}" width="18" height="18">')
         meta.append(author)
-        meta.append(published)
-        parts.append(f'<br><sub>{" · ".join(meta)}</sub>')
-        cells.append(f'<td width="33.33%" valign="top">{"".join(parts)}</td>')
+        if published:
+            meta.append(published)
+
+        rows.extend([
+            "  <tr>",
+            f'    <td width="180" valign="top">{media}</td>',
+            f'    <td valign="middle"><a href="{url}"><strong>{title}</strong></a><br><sub>{" · ".join(meta)}</sub></td>',
+            "  </tr>",
+        ])
 
     return "\n".join([
         "<table>",
-        "  <tr>",
-        *[f"    {cell}" for cell in cells],
-        "  </tr>",
+        *rows,
         "</table>",
         f'<p><a href="{PROFILE_URL}">View all on DEV</a></p>',
     ])
