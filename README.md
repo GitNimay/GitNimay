@@ -27,16 +27,16 @@
 <!-- DEVTO-LATEST:START -->
 <table>
   <tr>
+    <td width="180" valign="top"><a href="https://dev.to/nimay_04/devops-vs-mlops-vs-aiops-what-changes-what-stays-and-a-simple-roadmap-to-get-started-4n6g"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FGitNimay%2FGitnimay-HostedImages%2Fmain%2Fdevto%2Fdevops-vs-mlops-vs-aiops-cover-2026-05-22-v2.png" alt="DevOps vs MLOps vs AIOps: What Changes, What Stays, and a Simple Roadmap to Get Started" width="160"></a></td>
+    <td valign="middle"><a href="https://dev.to/nimay_04/devops-vs-mlops-vs-aiops-what-changes-what-stays-and-a-simple-roadmap-to-get-started-4n6g"><strong>DevOps vs MLOps vs AIOps: What Changes, What Stays, and a Simple Roadmap to Get Started</strong></a><br><sub>Nimesh Kulkarni · May 22, 2026</sub></td>
+  </tr>
+  <tr>
+    <td width="180" valign="top"><a href="https://dev.to/nimay_04/azure-devops-structure-explained-organizations-projects-and-repos-without-the-mess-156o"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FGitNimay%2FGitnimay-HostedImages%2Fmain%2Fdevto%2Fazure-devops-structure-cover-2026-05-21.png" alt="Azure DevOps Structure Explained: Organizations, Projects, and Repos Without the Mess" width="160"></a></td>
+    <td valign="middle"><a href="https://dev.to/nimay_04/azure-devops-structure-explained-organizations-projects-and-repos-without-the-mess-156o"><strong>Azure DevOps Structure Explained: Organizations, Projects, and Repos Without the Mess</strong></a><br><sub>Nimesh Kulkarni · May 21, 2026</sub></td>
+  </tr>
+  <tr>
     <td width="180" valign="top"><a href="https://dev.to/nimay_04/how-i-built-a-hermes-agent-for-lead-generation-that-finds-and-qualifies-better-prospects-1hm6"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FGitNimay%2FGitnimay-HostedImages%2Fmain%2Fdevto%2Fhermes-lead-generation-cover-2026-05-20.png" alt="How I Built a Hermes Agent for Lead Generation That Finds and Qualifies Better Prospects" width="160"></a></td>
     <td valign="middle"><a href="https://dev.to/nimay_04/how-i-built-a-hermes-agent-for-lead-generation-that-finds-and-qualifies-better-prospects-1hm6"><strong>How I Built a Hermes Agent for Lead Generation That Finds and Qualifies Better Prospects</strong></a><br><sub>Nimesh Kulkarni · May 20, 2026</sub></td>
-  </tr>
-  <tr>
-    <td width="180" valign="top"><a href="https://dev.to/nimay_04/full-ai-infrastructure-deployment-on-aws-architecture-pipeline-and-production-setup-42mp"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FGitNimay%2FGitnimay-HostedImages%2Fmain%2Fdevto%2Faws-ai-infrastructure-deployment-cover-2026-05-19.png" alt="Full AI Infrastructure Deployment on AWS: Architecture, Pipeline, and Production Setup" width="160"></a></td>
-    <td valign="middle"><a href="https://dev.to/nimay_04/full-ai-infrastructure-deployment-on-aws-architecture-pipeline-and-production-setup-42mp"><strong>Full AI Infrastructure Deployment on AWS: Architecture, Pipeline, and Production Setup</strong></a><br><sub>Nimesh Kulkarni · May 19, 2026</sub></td>
-  </tr>
-  <tr>
-    <td width="180" valign="top"><a href="https://dev.to/nimay_04/hybrid-cloud-microservices-and-serverless-a-practical-devops-guide-3bd5"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FGitNimay%2FGitnimay-HostedImages%2Fmain%2Fdevto%2Fcloud-devops-hybrid-microservices-serverless-2026-05-18.png" alt="Hybrid Cloud, Microservices, and Serverless: A Practical DevOps Guide" width="160"></a></td>
-    <td valign="middle"><a href="https://dev.to/nimay_04/hybrid-cloud-microservices-and-serverless-a-practical-devops-guide-3bd5"><strong>Hybrid Cloud, Microservices, and Serverless: A Practical DevOps Guide</strong></a><br><sub>Nimesh Kulkarni · May 18, 2026</sub></td>
   </tr>
 </table>
 <p><a href="https://dev.to/nimay_04">View all on DEV</a></p>
