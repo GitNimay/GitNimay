@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td valign="middle" align="center" width="120">
-      <img src="https://github.com/bashbunni/bashbunni/blob/main/dancing-gopher.gif" width="90px"/>
+      <img src="https://github.com/bashbunni/bashbunni/blob/main/dancing-gopher.gif" width="80px"/>
     </td>
     <td valign="middle">
       𝗦𝗸𝗶𝗹𝗹𝘀 & 𝗦𝘁𝗮𝗰𝗸:<br>
