@@ -4,6 +4,7 @@ from __future__ import annotations
 import json
 import re
 import urllib.request
+from urllib.parse import unquote, urlparse
 import xml.etree.ElementTree as ET
 from datetime import datetime
 from email.utils import parsedate_to_datetime
@@ -57,6 +58,30 @@ def fetch_feed_articles() -> list[dict[str, Any]]:
     return articles
 
 
+def fetch_article_detail(article_url: str) -> dict[str, Any]:
+    parsed = urlparse(article_url)
+    slug_path = parsed.path.strip("/")
+    if not slug_path:
+        return {}
+
+    try:
+        return json.loads(fetch_url(f"https://dev.to/api/articles/{slug_path}"))
+    except Exception:
+        return {}
+
+
+def prefer_source_image(url: str) -> str:
+    if not url:
+        return ""
+
+    marker = "/https%3A%2F%2F"
+    if "media2.dev.to/dynamic/image" in url and marker in url:
+        encoded = "https%3A%2F%2F" + url.split(marker, 1)[1]
+        return unquote(encoded)
+
+    return url
+
+
 def fetch_articles() -> list[dict[str, Any]]:
     api_articles = fetch_api_articles()
     feed_articles = fetch_feed_articles()
@@ -68,7 +93,10 @@ def fetch_articles() -> list[dict[str, Any]]:
 
     for feed_article in feed_articles:
         url = feed_article.get("url", "")
-        merged.append({**feed_article, **api_by_url.get(url, {})})
+        article = {**feed_article, **api_by_url.get(url, {})}
+        if not (article.get("cover_image") or article.get("social_image")):
+            article.update(fetch_article_detail(url))
+        merged.append(article)
 
     return merged[:3]
 
@@ -98,7 +126,7 @@ def render_articles(articles: list[dict[str, Any]]) -> str:
     for article in articles[:3]:
         title = clean_text(article.get("title", "Untitled"), 90)
         url = article.get("url", PROFILE_URL)
-        cover = article.get("cover_image") or article.get("social_image") or ""
+        cover = prefer_source_image(article.get("cover_image") or article.get("social_image") or "")
         published = format_date(article.get("published_at", article.get("published_timestamp")))
         user = article.get("user", {})
         author = clean_text(user.get("name", "Nimesh Kulkarni"), 40)

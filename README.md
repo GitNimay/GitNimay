@@ -27,15 +27,15 @@
 <!-- DEVTO-LATEST:START -->
 <table>
   <tr>
-    <td width="180" valign="top"></td>
+    <td width="180" valign="top"><a href="https://dev.to/nimay_04/from-yaml-to-ai-agents-building-smarter-devops-pipelines-with-mcp-3go3"><img src="https://raw.githubusercontent.com/GitNimay/Gitnimay-HostedImages/main/devto/2026/ai-native-devops-mcp/cover-paperclip.png" alt="From YAML to AI Agents: Building Smarter DevOps Pipelines with MCP" width="160"></a></td>
     <td valign="middle"><a href="https://dev.to/nimay_04/from-yaml-to-ai-agents-building-smarter-devops-pipelines-with-mcp-3go3"><strong>From YAML to AI Agents: Building Smarter DevOps Pipelines with MCP</strong></a><br><sub>Nimesh Kulkarni · May 23, 2026</sub></td>
   </tr>
   <tr>
-    <td width="180" valign="top"><a href="https://dev.to/nimay_04/devops-vs-mlops-vs-aiops-what-changes-what-stays-and-a-simple-roadmap-to-get-started-4n6g"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FGitNimay%2FGitnimay-HostedImages%2Fmain%2Fdevto%2Fdevops-vs-mlops-vs-aiops-cover-2026-05-22-v2.png" alt="DevOps vs MLOps vs AIOps: What Changes, What Stays, and a Simple Roadmap to Get Started" width="160"></a></td>
+    <td width="180" valign="top"><a href="https://dev.to/nimay_04/devops-vs-mlops-vs-aiops-what-changes-what-stays-and-a-simple-roadmap-to-get-started-4n6g"><img src="https://raw.githubusercontent.com/GitNimay/Gitnimay-HostedImages/main/devto/devops-vs-mlops-vs-aiops-cover-2026-05-22-v2.png" alt="DevOps vs MLOps vs AIOps: What Changes, What Stays, and a Simple Roadmap to Get Started" width="160"></a></td>
     <td valign="middle"><a href="https://dev.to/nimay_04/devops-vs-mlops-vs-aiops-what-changes-what-stays-and-a-simple-roadmap-to-get-started-4n6g"><strong>DevOps vs MLOps vs AIOps: What Changes, What Stays, and a Simple Roadmap to Get Started</strong></a><br><sub>Nimesh Kulkarni · May 22, 2026</sub></td>
   </tr>
   <tr>
-    <td width="180" valign="top"><a href="https://dev.to/nimay_04/azure-devops-structure-explained-organizations-projects-and-repos-without-the-mess-156o"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FGitNimay%2FGitnimay-HostedImages%2Fmain%2Fdevto%2Fazure-devops-structure-cover-2026-05-21.png" alt="Azure DevOps Structure Explained: Organizations, Projects, and Repos Without the Mess" width="160"></a></td>
+    <td width="180" valign="top"><a href="https://dev.to/nimay_04/azure-devops-structure-explained-organizations-projects-and-repos-without-the-mess-156o"><img src="https://raw.githubusercontent.com/GitNimay/Gitnimay-HostedImages/main/devto/azure-devops-structure-cover-2026-05-21.png" alt="Azure DevOps Structure Explained: Organizations, Projects, and Repos Without the Mess" width="160"></a></td>
     <td valign="middle"><a href="https://dev.to/nimay_04/azure-devops-structure-explained-organizations-projects-and-repos-without-the-mess-156o"><strong>Azure DevOps Structure Explained: Organizations, Projects, and Repos Without the Mess</strong></a><br><sub>Nimesh Kulkarni · May 21, 2026</sub></td>
   </tr>
 </table>
