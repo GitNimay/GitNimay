@@ -27,16 +27,16 @@
 <!-- DEVTO-LATEST:START -->
 <table>
   <tr>
+    <td width="180" valign="top"><a href="https://dev.to/nimay_04/rag-is-not-always-the-answer-anymore-how-ai-agents-search-code-in-2026-43m3"><img src="https://raw.githubusercontent.com/GitNimay/Gitnimay-HostedImages/main/devto/rag-code-search-2026/cover.png" alt="RAG Is Not Always the Answer Anymore: How AI Agents Search Code in 2026" width="160"></a></td>
+    <td valign="middle"><a href="https://dev.to/nimay_04/rag-is-not-always-the-answer-anymore-how-ai-agents-search-code-in-2026-43m3"><strong>RAG Is Not Always the Answer Anymore: How AI Agents Search Code in 2026</strong></a><br><sub>Nimesh Kulkarni · May 26, 2026</sub></td>
+  </tr>
+  <tr>
     <td width="180" valign="top"><a href="https://dev.to/nimay_04/github-glow-up-open-source-readmes-badges-streaks-git-and-gh-cli-1h0d"><img src="https://raw.githubusercontent.com/GitNimay/Gitnimay-HostedImages/main/devto/2026/github-open-source-guide/cover-paperclip.png" alt="GitHub Glow-Up: Open Source, READMEs, Badges, Streaks, Git and gh CLI" width="160"></a></td>
     <td valign="middle"><a href="https://dev.to/nimay_04/github-glow-up-open-source-readmes-badges-streaks-git-and-gh-cli-1h0d"><strong>GitHub Glow-Up: Open Source, READMEs, Badges, Streaks, Git and gh CLI</strong></a><br><sub>Nimesh Kulkarni · May 25, 2026</sub></td>
   </tr>
   <tr>
     <td width="180" valign="top"><a href="https://dev.to/nimay_04/ai-coding-vibe-coding-build-faster-without-losing-the-plot-b2c"><img src="https://raw.githubusercontent.com/GitNimay/Gitnimay-HostedImages/main/devto/2026/ai-coding-vibe-coding/cover-paperclip.png" alt="AI Coding & Vibe Coding: Build Faster Without Losing the Plot" width="160"></a></td>
     <td valign="middle"><a href="https://dev.to/nimay_04/ai-coding-vibe-coding-build-faster-without-losing-the-plot-b2c"><strong>AI Coding & Vibe Coding: Build Faster Without Losing the Plot</strong></a><br><sub>Nimesh Kulkarni · May 24, 2026</sub></td>
-  </tr>
-  <tr>
-    <td width="180" valign="top"><a href="https://dev.to/nimay_04/from-yaml-to-ai-agents-building-smarter-devops-pipelines-with-mcp-3go3"><img src="https://raw.githubusercontent.com/GitNimay/Gitnimay-HostedImages/main/devto/2026/ai-native-devops-mcp/cover-paperclip.png" alt="From YAML to AI Agents: Building Smarter DevOps Pipelines with MCP" width="160"></a></td>
-    <td valign="middle"><a href="https://dev.to/nimay_04/from-yaml-to-ai-agents-building-smarter-devops-pipelines-with-mcp-3go3"><strong>From YAML to AI Agents: Building Smarter DevOps Pipelines with MCP</strong></a><br><sub>Nimesh Kulkarni · May 23, 2026</sub></td>
   </tr>
 </table>
 <p><a href="https://dev.to/nimay_04">View all on DEV</a></p>
