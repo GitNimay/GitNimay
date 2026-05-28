@@ -23,16 +23,16 @@
 <!-- DEVTO-LATEST:START -->
 <table>
   <tr>
+    <td width="180" valign="top"><a href="https://dev.to/nimay_04/stop-hunting-for-root-causes-build-your-own-ai-kubernetes-troubleshooting-agent-4g7k"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/63e3n62ohi8ndkk25oeo.png" alt="Stop Hunting for Root Causes: Build Your Own AI Kubernetes Troubleshooting Agent" width="160"></a></td>
+    <td valign="middle"><a href="https://dev.to/nimay_04/stop-hunting-for-root-causes-build-your-own-ai-kubernetes-troubleshooting-agent-4g7k"><strong>Stop Hunting for Root Causes: Build Your Own AI Kubernetes Troubleshooting Agent</strong></a><br><sub>Nimesh Kulkarni · May 28, 2026</sub></td>
+  </tr>
+  <tr>
     <td width="180" valign="top"><a href="https://dev.to/nimay_04/treat-ai-coding-agents-like-untrusted-interns-a-practical-sandbox-checklist-39eg"><img src="https://raw.githubusercontent.com/GitNimay/Gitnimay-HostedImages/main/devto/2026/ai-agent-sandbox-checklist/cover-paperclip.png" alt="Treat AI Coding Agents Like Untrusted Interns: A Practical Sandbox Checklist" width="160"></a></td>
     <td valign="middle"><a href="https://dev.to/nimay_04/treat-ai-coding-agents-like-untrusted-interns-a-practical-sandbox-checklist-39eg"><strong>Treat AI Coding Agents Like Untrusted Interns: A Practical Sandbox Checklist</strong></a><br><sub>Nimesh Kulkarni · May 28, 2026</sub></td>
   </tr>
   <tr>
     <td width="180" valign="top"><a href="https://dev.to/nimay_04/github-code-coverage-in-pull-requests-what-developers-should-set-up-now-52g1"><img src="https://raw.githubusercontent.com/GitNimay/Gitnimay-HostedImages/main/devto/2026/github-code-coverage-prs/cover-paperclip.png" alt="GitHub Code Coverage in Pull Requests: What Developers Should Set Up Now" width="160"></a></td>
     <td valign="middle"><a href="https://dev.to/nimay_04/github-code-coverage-in-pull-requests-what-developers-should-set-up-now-52g1"><strong>GitHub Code Coverage in Pull Requests: What Developers Should Set Up Now</strong></a><br><sub>Nimesh Kulkarni · May 27, 2026</sub></td>
-  </tr>
-  <tr>
-    <td width="180" valign="top"><a href="https://dev.to/nimay_04/rag-is-not-always-the-answer-anymore-how-ai-agents-search-code-in-2026-43m3"><img src="https://raw.githubusercontent.com/GitNimay/Gitnimay-HostedImages/main/devto/rag-code-search-2026/cover.png" alt="RAG Is Not Always the Answer Anymore: How AI Agents Search Code in 2026" width="160"></a></td>
-    <td valign="middle"><a href="https://dev.to/nimay_04/rag-is-not-always-the-answer-anymore-how-ai-agents-search-code-in-2026-43m3"><strong>RAG Is Not Always the Answer Anymore: How AI Agents Search Code in 2026</strong></a><br><sub>Nimesh Kulkarni · May 26, 2026</sub></td>
   </tr>
 </table>
 <p><a href="https://dev.to/nimay_04">View all on DEV</a></p>
