@@ -21,7 +21,7 @@
 <!-- DEVTO-LATEST:START -->
 <table>
   <tr>
-    <td width="180" valign="top"><a href="https://dev.to/nimay_04/stop-hunting-for-root-causes-build-your-own-ai-kubernetes-troubleshooting-agent-4g7k"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/63e3n62ohi8ndkk25oeo.png" alt="Stop Hunting for Root Causes: Build Your Own AI Kubernetes Troubleshooting Agent" width="160"></a></td>
+    <td width="180" valign="top"><a href="https://dev.to/nimay_04/stop-hunting-for-root-causes-build-your-own-ai-kubernetes-troubleshooting-agent-4g7k"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/caezi9t7064lowymaenm.png" alt="Stop Hunting for Root Causes: Build Your Own AI Kubernetes Troubleshooting Agent" width="160"></a></td>
     <td valign="middle"><a href="https://dev.to/nimay_04/stop-hunting-for-root-causes-build-your-own-ai-kubernetes-troubleshooting-agent-4g7k"><strong>Stop Hunting for Root Causes: Build Your Own AI Kubernetes Troubleshooting Agent</strong></a><br><sub>Nimesh Kulkarni · May 28, 2026</sub></td>
   </tr>
   <tr>
