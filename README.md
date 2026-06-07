@@ -1,8 +1,7 @@
-## ꕤ About Me
-
-<img align="right" alt="Dancing Gopher" width="80" src="https://github.com/bashbunni/bashbunni/blob/main/dancing-gopher.gif?raw=true" />
-
-- Hi, I'm **Nimesh Kulkarni**
-- Check out my **[portfolio](https://www.n1m35h.in/)**
-- Connect with me: **nimesh.kulkarni2004@gmail.com**
-
+<p align="center">
+  <img src="https://github.com/JDhruv14/JDhruv14/blob/main/Dhruv's%20Header%20Image.png" alt="Colorful Github Header">
+</p>
+<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Procastination+kills+progress;Today%27s+actions+build+tomorrow%27s+skills" alt="Quote" />
+</p>
