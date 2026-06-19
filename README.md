@@ -1,4 +1,4 @@
-# Hi, I'm Nimesh Kulkarni
+<img src="banner.svg" alt="Hi, I'm Nimesh Kulkarni">
 
 - Portfolio: https://www.n1m35h.in/
 - Blogs: https://www.n1m35h.in/blogs
