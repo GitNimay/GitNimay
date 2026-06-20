@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="banner.svg" alt="Hi, I'm Nimesh Kulkarni" />
 </p>
 
