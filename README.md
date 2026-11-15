@@ -13,7 +13,6 @@
 </table>
 
 I build **AI-native developer tools, agentic systems, open-source infrastructure, and creative engineering products.**
-I also build cool stuff. You can visit **[here](https://www.n1m35h.in/extras)**.
 
 ### Projects & Open Source
 
