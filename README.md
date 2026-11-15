@@ -13,6 +13,7 @@
 </table>
 
 I build **AI-native developer tools, agentic systems, open-source infrastructure, and creative engineering products.**
+I also build cool stuff. You can visit **[here](https://www.n1m35h.in/extras)**.
 
 ### Projects & Open Source
 
@@ -22,7 +23,7 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 - **[K8s AI Troubleshooting Agent](https://docs.n1m35h.in/k8s-agent)** · Reads pods, logs and events, then explains the root cause and fix
 - **[InterviewXpert](https://interviewxpert.in)** · AI mock interview platform that scores your answers in real time
 
-<img align="right" width="320" src="./Pixel Mascot Sticker Lineup.png" alt="Pixel octopus trio" />
+<img align="right" width="260" src="./mascots.png" alt="Pixel mascot lineup" />
 
 - **[Cozystack](https://github.com/cozystack/cozystack)** · [#4953](https://github.com/cozystack/cozystack/pull/4953) · Dropped deprecated Cilium flags
 - **[Penpot](https://github.com/penpot/penpot)** · [#12450](https://github.com/penpot/penpot/pull/12450) · Configurable MCP request size limit
