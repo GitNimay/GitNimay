@@ -12,7 +12,7 @@
 </tr>
 </table>
 
-I build **cloud infrastructure, CI/CD pipelines, Kubernetes tooling, and AI-native developer products.** I also build cool stuff you can view [here](https://n1m35h.in/extras).
+I build **AI-native developer tools, agentic systems, open-source infrastructure, and creative engineering products.**
 
 ### Projects & Open Source
 
