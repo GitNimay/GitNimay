@@ -29,4 +29,3 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 - **[Penpot](https://github.com/penpot/penpot)** · [#12435](https://github.com/penpot/penpot/pull/12435) · Migrated inspect components to rumext
 - **[Apache APISIX](https://github.com/apache/apisix)** · [#14053](https://github.com/apache/apisix/pull/14053) · Fixed silent Kubernetes list failures
 - **[Docker CLI](https://github.com/docker/cli)** · [#7408](https://github.com/docker/cli/pull/7408) · Fixed unknown commands with `--version`
-- **[All merged PRs](https://github.com/search?q=author%3AGitNimay+is%3Apr+is%3Amerged&type=pullrequests)** across **Docker, Apache, Penpot, Cozystack** & more
