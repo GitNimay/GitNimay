@@ -16,6 +16,7 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 
 ### Projects & Open Source
 
+- **[BitArt](https://bitmap-art.vercel.app/)** · A curated library of dither, pixel, noise and glass shaders
 - **[HirelyAi](https://hire-excellence.n1m35h.in/)** · AI hiring network where candidates take LLM-led voice interviews
 - **[Termy](https://termy-rho.vercel.app/)** · Rust-based coding environment with workspaces that persist across sessions
 - **[Hookline](https://docs.n1m35h.in/hookline)** · Self-hosted webhook delivery platform in Go, with retries and delivery logs
